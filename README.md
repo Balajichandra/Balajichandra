@@ -24,7 +24,7 @@
     <a href="https://seaborn.pydata.org" target="_blank">  <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height=48 width=48/></a>
     <a href="https://plotly.com" target="_blank">  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" height=48 width=48/></a>
     <a href="https://scikit-learn.org/stable" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height=48 width=48/></a>
-    <a href="https://keras.io" target="_blank">  <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" height=48 width=48/></a>
+    <a href="https://keras.io" target="_blank">  <img src=" https://keras.io/img/logo.png" height=48 width=48/></a>
      <a href="https://www.tensorflow.org" target="_blank">  <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" height=48 width=48/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -34,6 +34,7 @@
     <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.djangoproject.com" target="_blank">  <img src="https://i.pinimg.com/originals/d9/70/36/d97036b366cf7dc60cebf3a4fee58463.png" height=48 width=48/></a>
     <a href="https://flask.palletsprojects.com/en/2.0.x" target="_blank">  <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height=48 width=48/></a>
+    <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">  <img src="https://editor.analyticsvidhya.com/uploads/232202.png" height=48 width=48/></a>
 
     
 </p>

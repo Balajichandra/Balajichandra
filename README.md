@@ -14,6 +14,7 @@
 - 📫 How to reach me **balajiavinash66@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the Shuttle very often.**
+- &#127760; This is my portfolio link https://balajichandra.github.io/balajiPortfolio/
 
 ## 🚀 Languages and Tools:
 <p align="left"> 

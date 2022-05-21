@@ -16,41 +16,38 @@
 - ⚡ Fun fact **I play games and go to the Shuttle very often.**
 - &#127760; This is my portfolio link https://balajichandra.github.io/balajiPortfolio/
 
-## 🚀 Languages:
+## 🚀 Languages and library:
 <br>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank">  <img src="https://img.icons8.com/color/50/000000/python--v1.png"/></a>
-</p> 
-## Machine Learning:
-<br>
-<p align = "center">
     <a href="https://numpy.org" target="_blank">  <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" height=48 width=48/></a>
     <a href="https://pandas.pydata.org" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" height=48 width=48/></a>
     <a href="https://matplotlib.org" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" height=48 width=48/></a>
     <a href="https://seaborn.pydata.org" target="_blank">  <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height=48 width=48/></a>
     <a href="https://plotly.com" target="_blank">  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" height=48 width=48/></a>
     <a href="https://scikit-learn.org/stable" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height=48 width=48/></a>
-</p>
-## Deep Learning:
-<br>
-<p align = "center">
     <a href="https://keras.io" target="_blank">  <img src="https://keras.io/img/logo.png" height=48 width=48/></a>
     <a href="https://www.tensorflow.org" target="_blank">  <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" height=48 width=48/></a>
     <a href = "https://pytorch.org" target="_blank"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height=48 width=48/></a>
-    <a href = "https://librosa.org target="_blank"> <img src ="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" height=48 width=48/></a>
- </p>                                                                                                                      
-<p>                                                                                                                         
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href = "https://librosa.org target="_blank"> <img src ="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" height=48 width=48/></a>                       <a href = "https://www.nltk.org" target="_blank"><img src ="https://v2stech.com/admin/media/technology_stack_sub_item/nltk-icon.webp" height=48 width=48/></a>         <a href = "https://spacy.io" target="_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" height=48 width=48/></a>
+    <a href = "https://textblob.readthedocs.io/en/dev/" target="_blank"><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" height=48 width=48/></a>
+    <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" height=48 width=48/> </a> 
+    <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height=48 width=48/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height=48 width=48/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" height=48 width=48/> </a>  
+    <a href="https://jquery.com" target="_blank"><img src="https://api.jqueryui.com/jquery-wp-content/themes/jquery/content/donate.png" height=48 width=48/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.djangoproject.com" target="_blank">  <img src="https://i.pinimg.com/originals/d9/70/36/d97036b366cf7dc60cebf3a4fee58463.png" height=48 width=48/></a>
+    <a href="https://www.django-rest-framework.org/" taregt="_blank"><img src="https://www.django-rest-framework.org/img/logo.png" height=48 width=48/></a>                                                                                                                                            
     <a href="https://flask.palletsprojects.com/en/2.0.x" target="_blank">  <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height=48 width=48/></a>
     <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">  <img src="https://editor.analyticsvidhya.com/uploads/232202.png" height=48 width=48/></a>
-
-    
+    <a href="https://google.github.io/mediapipe/" taregt="_blank"><img src="https://google.github.io/mediapipe/images/mediapipe_small.png" height=48 width=48/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height=48 width=48/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height=48 width=48/></a>
+    <a href="https://github.com/" target="_blank"><img src="http://cdn.onlinewebfonts.com/svg/img_326384.png" height=48 width=48/></a>                                                                                                             
+     <a href="https://www.docker.com/" target="_blank"><img src="https://isd-soft.com/wp-content/uploads/2016/12/docker_logo.png" height=48 width=48/></a>
+     <a href="https://kubernetes.io/" target="_blank"><img src="https://www.bluematador.com/hs-fs/hubfs/www/Icons/bluematador-kubernetes-125w.png?width=250&name=bluematador-kubernetes-125w.png" height=48 width=48/></a>                                                                                                                     
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->

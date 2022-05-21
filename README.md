@@ -44,7 +44,7 @@
     <a href="https://www.django-rest-framework.org/" taregt="_blank"><img src="https://www.django-rest-framework.org/img/logo.png" height=48 width=48/></a>                                                                                                                                            
     <a href="https://flask.palletsprojects.com/en/2.0.x" target="_blank">  <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height=48 width=48/></a>
     <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">  <img src="https://editor.analyticsvidhya.com/uploads/232202.png" height=48 width=48/></a>
-    <a href="https://google.github.io/mediapipe/" taregt="_blank"><img src="https://google.github.io/mediapipe/images/mediapipe_small.png" height=48 width=48/></a>
+    <a href="https://google.github.io/mediapipe/" taregt="_blank"><img src="https://google.github.io/mediapipe/images/mediapipe_small.png" height=48 width=80/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height=48 width=48/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height=48 width=48/></a>
     <a href="https://github.com/" target="_blank"><img src="http://cdn.onlinewebfonts.com/svg/img_326384.png" height=48 width=48/></a>                                                                                                             

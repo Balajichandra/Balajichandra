@@ -37,7 +37,7 @@
     <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height=48 width=48/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height=48 width=48/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" height=48 width=48/> </a>  
-    <a href="https://jquery.com" target="_blank"><img src="https://api.jqueryui.com/jquery-wp-content/themes/jquery/content/donate.png" height=48 width=48/></a>
+    <a href="https://jquery.com" target="_blank"><img src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" height=48 width=48/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.djangoproject.com" target="_blank">  <img src="https://i.pinimg.com/originals/d9/70/36/d97036b366cf7dc60cebf3a4fee58463.png" height=48 width=48/></a>

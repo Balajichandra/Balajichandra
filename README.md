@@ -30,7 +30,7 @@
     <a href="https://www.tensorflow.org" target="_blank">  <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" height=48 width=48/></a>
     <a href = "https://pytorch.org" target="_blank"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height=48 width=48/></a>
     <a href = "https://librosa.org target="_blank"> <img src ="https://librosa.org/images/librosa_logo_text.png" height=48 width=48/></a>                       
-    <a href = "https://www.nltk.org" target="_blank"><img src ="https://3.bp.blogspot.com/- _LP735PHQb4/WxBBfdi3SRI/AAAAAAAAABA/I33_4eZYG9geNy46yvTv18egm48zLIUYQCLcBGAs/s1600/nltk.jpg" height=48 width=48/></a>
+    <a href = "https://www.nltk.org" target="_blank"><img src ="https://alternativebk.com/wp-content/uploads/2020/05/5eccb32ff2cfe.png" height=48 width=48/></a>
     <a href = "https://spacy.io" target="_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" height=48 width=48/></a>
     <a href = "https://textblob.readthedocs.io/en/dev/" target="_blank"><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" height=48 width=48/></a>
     <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" height=48 width=48/> </a> 

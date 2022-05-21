@@ -16,17 +16,30 @@
 - ⚡ Fun fact **I play games and go to the Shuttle very often.**
 - &#127760; This is my portfolio link https://balajichandra.github.io/balajiPortfolio/
 
-## 🚀 Languages and Tools:
+## 🚀 Languages:
+<br>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank">  <img src="https://img.icons8.com/color/50/000000/python--v1.png"/></a>
+</p> 
+## Machine Learning:
+<br>
+<p align = "center">
     <a href="https://numpy.org" target="_blank">  <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" height=48 width=48/></a>
     <a href="https://pandas.pydata.org" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" height=48 width=48/></a>
     <a href="https://matplotlib.org" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" height=48 width=48/></a>
     <a href="https://seaborn.pydata.org" target="_blank">  <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height=48 width=48/></a>
     <a href="https://plotly.com" target="_blank">  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" height=48 width=48/></a>
     <a href="https://scikit-learn.org/stable" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height=48 width=48/></a>
+</p>
+## Deep Learning:
+<br>
+<p align = "center">
     <a href="https://keras.io" target="_blank">  <img src="https://keras.io/img/logo.png" height=48 width=48/></a>
-     <a href="https://www.tensorflow.org" target="_blank">  <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" height=48 width=48/></a>
+    <a href="https://www.tensorflow.org" target="_blank">  <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" height=48 width=48/></a>
+    <a href = "https://pytorch.org" target="_blank"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height=48 width=48/></a>
+    <a href = "https://librosa.org target="_blank"> <img src ="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" height=48 width=48/></a>
+ </p>                                                                                                                      
+<p>                                                                                                                         
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 

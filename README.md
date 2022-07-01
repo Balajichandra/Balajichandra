@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="3px" height="3px">, I'm Balaji C</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="10px" height="10px">, I'm Balaji C</h1>
 
 
 ## 🙋‍♂️ About Me

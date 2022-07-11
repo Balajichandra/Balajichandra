@@ -7,7 +7,7 @@
 
 - 🔭 I'm a passionate Data Scientist self-taught programmer from Chennai,India.
 
-- 🌱 My Skills are Machine Learning | Deep Learning | NLP | OpenCV | WebTech
+- 🌱 My Skills are Machine Learning | Deep Learning | NLP | OpenCV | Front-End | Back-End | DataBase |DevOps
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

@@ -50,7 +50,8 @@
     <a href="https://www.linux.org/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height=48 width=48/></a>
     <a href="https://github.com/" target="_blank"><img src="http://cdn.onlinewebfonts.com/svg/img_326384.png" height=48 width=48/></a>                                                                                                             
      <a href="https://www.docker.com/" target="_blank"><img src="https://isd-soft.com/wp-content/uploads/2016/12/docker_logo.png" height=48 width=48/></a>
-     <a href="https://kubernetes.io/" target="_blank"><img src="https://www.bluematador.com/hs-fs/hubfs/www/Icons/bluematador-kubernetes-125w.png?width=250&name=bluematador-kubernetes-125w.png" height=48 width=48/></a>                                                                                                                     
+     <a href="https://kubernetes.io/" target="_blank"><img src="https://www.bluematador.com/hs-fs/hubfs/www/Icons/bluematador-kubernetes-125w.png?width=250&name=bluematador-kubernetes-125w.png" height=48 width=48/></a>  
+     <a href="https://powerbi.microsoft.com/" target="_blank">  <img src="https://www.designmind.com/hs-fs/hubfs/Microsoft-Power-BI.png" height=48 width=48/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->

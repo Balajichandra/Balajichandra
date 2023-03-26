@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I play games and go to the Shuttle very often.**
 - &#127760; This is my portfolio link <a href="https://snazzy-pudding-7ff394.netlify.app/" target="_blank">Portfolio</a>
-- &#9997; I am Started writting blogs in medium about data science <a href="https://medium.com/@balajicena1995/" target="_blank">Blogs</a>
+- &#9997; I am  write blogs on medium on Data Science <a href="https://medium.com/@balajicena1995/" target="_blank">Blogs</a>
 
 ## 🚀 Languages and library:
 <br>

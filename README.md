@@ -7,8 +7,8 @@
 
 - 🔭 I'm a passionate Data Scientist self-taught programmer from Chennai,India.
 
-- 🌱 My Skills are Machine Learning | Deep Learning | NLP | OpenCV | Front-End | Back-End | DataBase |MlOps
-
+- 🌱 My Skills are Machine Learning | Deep Learning | NLP | OpenCV | Front-End | Back-End | DataBase |
+Devops|PowerBI
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **balajiavinash66@gmail.com**

@@ -170,7 +170,7 @@ Devops|PowerBI
     </td>
     <td align="center" width="96">
       <a href="https://github.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+        <div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;    margin-right: 0px; margin-bottom: 0px;" /></div>
       <br>Github
     </td>
     <td align="center" width="96">

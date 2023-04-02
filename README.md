@@ -19,42 +19,188 @@ Devops|PowerBI
 
 ## 🚀 Languages and library:
 <br>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank">  <img src="https://img.icons8.com/color/50/000000/python--v1.png"/></a>
-    <a href="https://numpy.org" target="_blank">  <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" height=48 width=48/></a>
-    <a href="https://pandas.pydata.org" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" height=48 width=48/></a>
-    <a href="https://matplotlib.org" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" height=48 width=48/></a>
-    <a href="https://seaborn.pydata.org" target="_blank">  <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height=48 width=48/></a>
-    <a href="https://plotly.com" target="_blank">  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" height=48 width=48/></a>
-    <a href="https://scikit-learn.org/stable" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height=48 width=48/></a>
-    <a href="https://keras.io" target="_blank">  <img src="https://keras.io/img/logo.png" height=48 width=48/></a>
-    <a href="https://www.tensorflow.org" target="_blank">  <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" height=48 width=48/></a>
-    <a href = "https://pytorch.org" target="_blank"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" height=48 width=48/></a>
-    <a href = "https://librosa.org target="_blank"> <img src ="https://librosa.org/images/librosa_logo_text.png" height=48 width=48/></a>                       
-    <a href = "https://www.nltk.org" target="_blank"><img src ="https://alternativebk.com/wp-content/uploads/2020/05/5eccb32ff2cfe.png" height=48 width=48/></a>
-    <a href = "https://spacy.io" target="_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" height=48 width=48/></a>
-    <a href = "https://textblob.readthedocs.io/en/dev/" target="_blank"><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" height=48 width=48/></a>
-    <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" height=48 width=48/> </a> 
-    <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height=48 width=48/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height=48 width=48/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" height=48 width=48/> </a>  
-    <a href="https://jquery.com" target="_blank"><img src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" height=48 width=48/></a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.djangoproject.com" target="_blank">  <img src="https://i.pinimg.com/originals/d9/70/36/d97036b366cf7dc60cebf3a4fee58463.png" height=48 width=48/></a>
-    <a href="https://www.django-rest-framework.org/" taregt="_blank"><img src="https://www.django-rest-framework.org/img/logo.png" height=48 width=48/></a>                                                                                                                                            
-    <a href="https://flask.palletsprojects.com/en/2.0.x" target="_blank">  <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height=48 width=48/></a>
-    <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">  <img src="https://editor.analyticsvidhya.com/uploads/232202.png" height=48 width=48/></a>
-    <a href="https://google.github.io/mediapipe/" taregt="_blank"><img src="https://mediapipe.dev/images/mediapipe_small.png" height=48 width=80/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height=48 width=48/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height=48 width=48/></a>
-    <a href="https://github.com/" target="_blank"><img src="http://cdn.onlinewebfonts.com/svg/img_326384.png" height=48 width=48/></a>                                                                                                             
-     <a href="https://www.docker.com/" target="_blank"><img src="https://isd-soft.com/wp-content/uploads/2016/12/docker_logo.png" height=48 width=48/></a>
-     <a href="https://kubernetes.io/" target="_blank"><img src="https://www.bluematador.com/hs-fs/hubfs/www/Icons/bluematador-kubernetes-125w.png?width=250&name=bluematador-kubernetes-125w.png" height=48 width=48/></a>  
-     <a href="https://powerbi.microsoft.com/" target="_blank">  <img src="https://www.designmind.com/hs-fs/hubfs/Microsoft-Power-BI.png" height=48 width=48/></a>
-</p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://numpy.org" target="_blank">  
+        <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" alt="icon" width="65" height="65" />
+      <br>Numpy
+    </td>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org" target="_blank">  
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="icon" width="65" height="65" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://matplotlib.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+     <a href="https://seaborn.pydata.org" target="_blank">
+        <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>  
+    <td align="center" width="96">
+      <a href="https://plotly.com" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" width="48" height="48" alt="Plotly" />
+      <br>Plotly
+    </td>
+     <td align="center" width="96">
+      <a href="https://scikit-learn.org/stable" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="SKlearn" />
+      <br>SKlearn
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://keras.io" target="_blank">
+        <img src="https://keras.io/img/logo.png" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center"  width="96"> 
+      <a href = "https://pytorch.org" target="_blank">
+        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="Pytorch" />
+      <br>Pytorch
+    </td>
+    <td align="center" width="96">
+      <a href = "https://www.nltk.org" target="_blank">
+        <img src="https://alternativebk.com/wp-content/uploads/2020/05/5eccb32ff2cfe.png" width="48" height="48" alt="NLTK" />
+      <br>NLTK
+    </td>
+    <td align="center" width="96">
+      <a href = "https://spacy.io" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" width="48" height="48" alt="Spacy" />
+      <br>Spacy
+    </td>
+    <td align="center" width="96">
+      <a href = "https://librosa.org" target="_blank">
+        <img src="https://librosa.org/images/librosa_logo_text.png" width="48" height="48" alt="Librosa" />
+      <br>Librosa
+    </td>
+    <td align="center" width="96">
+       <a href = "https://textblob.readthedocs.io/en/dev/" target="_blank">
+        <img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" width="48" height="48" alt="TextBlob" />
+      <br>TextBlob
+    </td>
+     <td align="center" width="96">
+      <a href="https://powerbi.microsoft.com/" target="_blank">
+        <img src="https://www.designmind.com/hs-fs/hubfs/Microsoft-Power-BI.png" width="48" height="48" alt="PowerBI" />
+      <br>PowerBI
+    </td>
+     <td align="center" width="96">
+        <img src="https://assets.website-files.com/5f6bc60e665f54db361e52a9/5f6bc60e665f546a6b1e5400_logo_yolo.png" width="48" height="48" alt="YOLO" />
+      <br>YoLo
+    </td>   
+ </tr>
+ <tr> 
+    <td align="center"  width="96">
+    <a href="https://www.w3schools.com/html/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp"
+      target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td> 
+      <td align="center" width="96">
+       <a href="https://www.w3schools.com/js/"
+      target="_blank">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/jquery/"
+      target="_blank">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com" target="_blank">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+     <td align="center" width="96">
+      <a href="https://www.django-rest-framework.org/" taregt="_blank">
+        <img src="https://www.django-rest-framework.org/img/logo.png" width="48" height="48" alt="tailwind" />
+      <br>Django-RESTAPI
+    </td>
+    <td align="center" width="96">
+      <a href="https://flask.palletsprojects.com/en/2.0.x" target="_blank"> 
+        <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="48" height="48" alt="tailwind" />
+      <br>Flask
+    </td>
+      
+              
+ </tr>
+ <tr>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" 
+        alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" 
+        alt = "Kubernetes"/>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+       <a href="https://google.github.io/mediapipe/" taregt="_blank">
+        <img src="https://mediapipe.dev/images/mediapipe_small.png" alt="icon" width="65" height="65"
+        alt = "MediPipe" />
+      <br>MediPipe
+    </td>
+    <td align="center" width="96">
+      <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">
+        <img src="https://editor.analyticsvidhya.com/uploads/232202.png" alt="icon" width="65" height="65" alt = "OpenCV" />
+      <br>OpenCV
+    </td>
+ </tr>
+</table>
+
+
+ 
 <br/>
 
 <p align="center">
@@ -83,7 +229,8 @@ Devops|PowerBI
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/balajiavinash/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/balajiavinash/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="65" height="65"/></a>
+<a href = "https://medium.com/@balajicena1995"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="65" height="65"/></a>
 
 </p>
 
@@ -92,3 +239,7 @@ Devops|PowerBI
     <img src="https://komarev.com/ghpvc/?username=Balajichandra">
 </a>
 <a href="https://github.com/Balajichandra?tab=followers"><img src="https://img.shields.io/github/followers/Balajichandra?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/Balajichandra) !

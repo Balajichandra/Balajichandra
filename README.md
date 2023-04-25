@@ -207,7 +207,13 @@ Devops|PowerBI
         <a href="https://nodejs.org/en" target="_blank">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
        <br>Node
+    </td> 
+    <td align="center" width="96">
+        <a href="https://expressjs.com/" target="_blank">
+        <img src=" https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="icon" width="65" height="65" />
+       <br>Express
     </td>   
+       
  </tr>
 </table>
 

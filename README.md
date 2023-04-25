@@ -155,7 +155,7 @@ Devops|PowerBI
  <tr>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -196,6 +196,18 @@ Devops|PowerBI
         <img src="https://editor.analyticsvidhya.com/uploads/232202.png" alt="icon" width="65" height="65" alt = "OpenCV" />
       <br>OpenCV
     </td>
+ </tr>
+ <tr>
+     <td align="center" width="96">
+        <a href="https://react.dev/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+       <br>React
+     </td>
+     <td align="center" width="96">
+        <a href="https://nodejs.org/en" target="_blank">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+       <br>Node
+    </td>   
  </tr>
 </table>
 

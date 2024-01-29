@@ -7,7 +7,7 @@
 
 - 🔭 I'm a passionate Data Scientist self-taught programmer from Chennai,India.
 
-- 🌱 My Skills are Machine Learning | Deep Learning | NLP | OpenCV | Front-End | Back-End | DataBase |
+- 🌱 My Skills are Machine Learning | Deep Learning | NLP | OpenCV | Front-End | Back-End | DataBase |Langchain
 Devops|PowerBI
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -212,7 +212,13 @@ Devops|PowerBI
         <a href="https://expressjs.com/" target="_blank">
         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" alt="icon" width="65" height="65" />
        <br>Express
-    </td>   
+    </td>
+      <td align="center" width="96">
+        <a href="https://expressjs.com/" target="_blank">
+        <img src="[https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png](https://deepsense.ai/wp-content/uploads/2023/10/LangChain-announces-partnership-with-deepsense.jpeg)" alt="icon" width="65" height="65" />
+       <br>LangChain
+    </td>      
+          
        
  </tr>
 </table>

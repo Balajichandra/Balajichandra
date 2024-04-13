@@ -8,7 +8,7 @@
 - 🔭 I'm a passionate Data Scientist self-taught programmer from Chennai,India.
 
 - 🌱 My Skills are Machine Learning | Deep Learning | NLP | OpenCV | Front-End | Back-End | DataBase |Langchain|
-Devops|PowerBI
+Devops|PowerBI| ChatGPT | Gemini | Ollama.
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **balajiavinash66@gmail.com**
@@ -218,8 +218,27 @@ Devops|PowerBI
         <img src="https://deepsense.ai/wp-content/uploads/2023/10/LangChain-announces-partnership-with-deepsense.jpeg" alt="icon" width="65" height="65" />
        <br>LangChain
     </td>      
-          
-       
+     <td align="center" width="96">
+        <a href="https://www.langchain.com/" target="_blank">
+        <img src="https://blog.logomyway.com/wp-content/uploads/2023/08/chatgpt-logo.png" alt="icon" width="65" height="65" />
+       <br>ChatGPT
+    </td> 
+    <td align="center" width="96">
+        <a href="https://chat.openai.com/" target="_blank">
+        <img src="https://blog.logomyway.com/wp-content/uploads/2023/08/chatgpt-logo.png" alt="icon" width="65" height="65" />
+       <br>ChatGPT
+    </td> 
+    <td align="center" width="96">
+        <a href="https://gemini.google.com/app" target="_blank">
+        <img src="https://cdn.dribbble.com/userupload/11836408/file/original-7b9a0d678384c52accfbe8500adf923b.png?" alt="icon" width="65" height="65" />
+       <br>Gemini
+    </td> 
+      <td align="center" width="96">
+        <a href="https://ollama.com/" target="_blank">
+        <img src="https://ollama.com/public/ollama.png" alt="icon" width="65" height="65" />
+       <br>Ollama
+    </td>      
+         
  </tr>
 </table>
 

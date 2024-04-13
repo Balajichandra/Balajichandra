@@ -224,11 +224,6 @@ Devops|PowerBI| ChatGPT | Gemini | Ollama.
        <br>ChatGPT
     </td> 
     <td align="center" width="96">
-        <a href="https://chat.openai.com/" target="_blank">
-        <img src="https://blog.logomyway.com/wp-content/uploads/2023/08/chatgpt-logo.png" alt="icon" width="65" height="65" />
-       <br>ChatGPT
-    </td> 
-    <td align="center" width="96">
         <a href="https://gemini.google.com/app" target="_blank">
         <img src="https://cdn.dribbble.com/userupload/11836408/file/original-7b9a0d678384c52accfbe8500adf923b.png?" alt="icon" width="65" height="65" />
        <br>Gemini
